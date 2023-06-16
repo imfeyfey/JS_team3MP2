@@ -1,0 +1,33 @@
+h1,p{
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 400;
+    padding: 25px;
+    margin:20px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 200;
+    padding: 7px;
+    margin:7px;
+}
+
+.p1, .p2{
+    padding: 10px;
+    margin: 5px;
+}
+
+.about{
+    display: block;
+    background-color:#2192FF ;
+    box-shadow: 1px 1px 3px 2px #464545;
+    max-width: 600px;
+    max-height: 700px;
+    margin: 40px auto;
+    padding: 25px 40px;
+    color: #272932;
+}
